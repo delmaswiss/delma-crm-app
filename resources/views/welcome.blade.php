@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dario De Lucia V3.0
+Laravel
                 </div>
 
                 <div class="links">
