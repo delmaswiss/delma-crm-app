@@ -11,7 +11,6 @@
     |
     */
     
-    use jeremykenedy\LaravelRoles\App\Http\Controllers\LaravelRolesController;
     
     Route::get('/', function () {
         return view('welcome');
@@ -24,4 +23,3 @@
 
 #### Test Routes
     Route::get('/dario', 'HomeController@index')->name('home');
-    Route::get('/roles', 'LaravelRolesController@index')->name('roles');
