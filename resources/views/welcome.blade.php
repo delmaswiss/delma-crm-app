@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dario De Lucia V2.0
+                    Dario De Lucia V3.0
                 </div>
 
                 <div class="links">
