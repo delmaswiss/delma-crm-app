@@ -19,6 +19,7 @@ class CreateStoresTable extends Migration
             $table->string('countries');
             $table->string('payment_methods');
             $table->timestamps();
+            
         });
     }
     
